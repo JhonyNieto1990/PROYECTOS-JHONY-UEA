@@ -10,5 +10,5 @@ valor_buscar = 8
 if any(valor_buscar in fila for fila in matriz):
     print(f"Se encontró {valor_buscar} en la matriz.")
 else:
-    print(f"{valor_buscado} no se encontró en la matriz.")
+    print(f"{valor_buscar} no se encontró en la matriz.")
 
